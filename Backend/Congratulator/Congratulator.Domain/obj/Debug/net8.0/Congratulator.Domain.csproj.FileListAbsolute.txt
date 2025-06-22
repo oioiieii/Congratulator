@@ -1,0 +1,12 @@
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\bin\Debug\net8.0\Congratulator.Domain.deps.json
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\bin\Debug\net8.0\Congratulator.Domain.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\bin\Debug\net8.0\Congratulator.Domain.pdb
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.AssemblyInfoInputs.cache
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.AssemblyInfo.cs
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.csproj.CoreCompileInputs.cache
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\refint\Congratulator.Domain.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.pdb
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\ref\Congratulator.Domain.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.sourcelink.json

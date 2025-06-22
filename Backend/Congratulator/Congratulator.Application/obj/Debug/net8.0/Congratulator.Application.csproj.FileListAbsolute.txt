@@ -1,0 +1,16 @@
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\bin\Debug\net8.0\Congratulator.Application.deps.json
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\bin\Debug\net8.0\Congratulator.Application.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\bin\Debug\net8.0\Congratulator.Application.pdb
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.AssemblyInfoInputs.cache
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.AssemblyInfo.cs
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.csproj.CoreCompileInputs.cache
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\refint\Congratulator.Application.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.pdb
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\ref\Congratulator.Application.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\bin\Debug\net8.0\Congratulator.Domain.dll
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\bin\Debug\net8.0\Congratulator.Domain.pdb
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.csproj.AssemblyReference.cache
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratulator.Application.sourcelink.json
+C:\Users\oioii\source\repos\Congratulator\Congratulator.Application\obj\Debug\net8.0\Congratu.FB7875D7.Up2Date
