@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
+      "projectUniqueName": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
       "projectName": "Congratulator.Domain",
-      "projectPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
+      "projectPath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
       "packagesPath": "C:\\Users\\oioii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\obj\\",
+      "outputPath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

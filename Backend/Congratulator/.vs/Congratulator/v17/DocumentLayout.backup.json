@@ -1,48 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.api\\contracts\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|solutionrelative:congratulator.api\\contracts\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.api\\contracts\\personanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|solutionrelative:congratulator.api\\contracts\\personanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9878C505-3B1B-4C84-A09F-9A0D766777CB}|Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.infrastructure\\database\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9878C505-3B1B-4C84-A09F-9A0D766777CB}|Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj|solutionrelative:congratulator.infrastructure\\database\\repositories\\personsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9878C505-3B1B-4C84-A09F-9A0D766777CB}|Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.infrastructure\\storage\\supabasestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9878C505-3B1B-4C84-A09F-9A0D766777CB}|Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj|solutionrelative:congratulator.infrastructure\\storage\\supabasestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA569F35-3D45-478D-9143-C17C1487C16A}|Congratulator.Application\\Congratulator.Application.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.application\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA569F35-3D45-478D-9143-C17C1487C16A}|Congratulator.Application\\Congratulator.Application.csproj|solutionrelative:congratulator.application\\services\\settingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA569F35-3D45-478D-9143-C17C1487C16A}|Congratulator.Application\\Congratulator.Application.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.application\\services\\notifierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA569F35-3D45-478D-9143-C17C1487C16A}|Congratulator.Application\\Congratulator.Application.csproj|solutionrelative:congratulator.application\\services\\notifierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA569F35-3D45-478D-9143-C17C1487C16A}|Congratulator.Application\\Congratulator.Application.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.application\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA569F35-3D45-478D-9143-C17C1487C16A}|Congratulator.Application\\Congratulator.Application.csproj|solutionrelative:congratulator.application\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|solutionrelative:congratulator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|solutionrelative:congratulator.api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8D46FA-106C-448B-BBCE-178085776505}|Congratulator.Domain\\Congratulator.Domain.csproj|c:\\users\\oioii\\source\\repos\\congratulator\\congratulator.domain\\interfaces\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8D46FA-106C-448B-BBCE-178085776505}|Congratulator.Domain\\Congratulator.Domain.csproj|solutionrelative:congratulator.domain\\interfaces\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u043E\u043B\u0430\u0440\u041B\u0430\u0431\\CongratulatorProject\\Backend\\Congratulator\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,60 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SettingsService.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Application\\Services\\SettingsService.cs",
-              "RelativeDocumentMoniker": "Congratulator.Application\\Services\\SettingsService.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Application\\Services\\SettingsService.cs",
-              "RelativeToolTip": "Congratulator.Application\\Services\\SettingsService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T12:21:19.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NotifierService.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Application\\Services\\NotifierService.cs",
-              "RelativeDocumentMoniker": "Congratulator.Application\\Services\\NotifierService.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Application\\Services\\NotifierService.cs",
-              "RelativeToolTip": "Congratulator.Application\\Services\\NotifierService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T12:21:16.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Congratulator.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\appsettings.json",
-              "RelativeToolTip": "Congratulator.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-21T11:35:48.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IPersonsService.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Interfaces\\IPersonsService.cs",
-              "RelativeDocumentMoniker": "Congratulator.Domain\\Interfaces\\IPersonsService.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Interfaces\\IPersonsService.cs",
-              "RelativeToolTip": "Congratulator.Domain\\Interfaces\\IPersonsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T11:29:34.363Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -119,84 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersonsService.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Application\\Services\\PersonsService.cs",
-              "RelativeDocumentMoniker": "Congratulator.Application\\Services\\PersonsService.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Application\\Services\\PersonsService.cs",
-              "RelativeToolTip": "Congratulator.Application\\Services\\PersonsService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwEoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T11:29:41.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonRequest.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\Contracts\\PersonRequest.cs",
-              "RelativeDocumentMoniker": "Congratulator.API\\Contracts\\PersonRequest.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\Contracts\\PersonRequest.cs",
-              "RelativeToolTip": "Congratulator.API\\Contracts\\PersonRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T11:10:52.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonAnswer.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\Contracts\\PersonAnswer.cs",
-              "RelativeDocumentMoniker": "Congratulator.API\\Contracts\\PersonAnswer.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\Contracts\\PersonAnswer.cs",
-              "RelativeToolTip": "Congratulator.API\\Contracts\\PersonAnswer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T11:10:52.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SupabaseStorageService.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Storage\\SupabaseStorageService.cs",
-              "RelativeDocumentMoniker": "Congratulator.Infrastructure\\Storage\\SupabaseStorageService.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Storage\\SupabaseStorageService.cs",
-              "RelativeToolTip": "Congratulator.Infrastructure\\Storage\\SupabaseStorageService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:19:43.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Database\\Repositories\\PersonsRepository.cs",
-              "RelativeDocumentMoniker": "Congratulator.Infrastructure\\Database\\Repositories\\PersonsRepository.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Database\\Repositories\\PersonsRepository.cs",
-              "RelativeToolTip": "Congratulator.Infrastructure\\Database\\Repositories\\PersonsRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:19:36.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PersonsController.cs",
-              "DocumentMoniker": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\Controllers\\PersonsController.cs",
-              "RelativeDocumentMoniker": "Congratulator.API\\Controllers\\PersonsController.cs",
-              "ToolTip": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\Controllers\\PersonsController.cs",
-              "RelativeToolTip": "Congratulator.API\\Controllers\\PersonsController.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAwwH0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T10:19:19.628Z",
-              "EditorCaption": ""
             }
           ]
         }

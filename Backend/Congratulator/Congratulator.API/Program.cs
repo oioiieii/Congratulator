@@ -25,15 +25,14 @@ builder.Services.AddCors(options =>
 builder.Services.AddDbContext<CongratulatorDBContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-
 builder.Services.AddScoped<IPersonsRepository, PersonsRepository>();
 builder.Services.AddScoped<IPersonsService, PersonsService>();
 
 builder.Services.AddHttpClient<IStorageService, SupabaseStorageService>(client =>
 {
-    client.BaseAddress = new Uri("https://ufkntmtcpddrixpofjkz.supabase.co/");
+    client.BaseAddress = new Uri(builder.Configuration["StorageStrings:Url"] ?? "");
     client.DefaultRequestHeaders.Authorization =
-        new AuthenticationHeaderValue("Bearer", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVma250bXRjcGRkcml4cG9mamt6Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0OTg1ODA1MCwiZXhwIjoyMDY1NDM0MDUwfQ.uZVLq-D_lwOSpJcUh5ciQLR6wH9w2CXIsMfgpOCzLbQ");
+        new AuthenticationHeaderValue("Bearer", builder.Configuration["StorageStrings:API_Keys"] ?? "");
 });
 
 builder.Services.AddSingleton<ISenderService, TelegramSenderService>();
