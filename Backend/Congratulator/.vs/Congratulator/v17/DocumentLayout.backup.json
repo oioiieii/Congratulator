@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u043E\u043B\u0430\u0440\u041B\u0430\u0431\\CongratulatorProject\\Backend\\Congratulator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u0441\u043E\u043B\u0430\u0440\u043B\u0430\u0431\\congratulatorproject\\backend\\congratulator\\congratulator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|solutionrelative:congratulator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u0441\u043E\u043B\u0430\u0440\u043B\u0430\u0431\\congratulatorproject\\backend\\congratulator\\congratulator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E983391C-0ACB-4C1B-9B14-BACEF5BC62DD}|Congratulator.API\\Congratulator.API.csproj|solutionrelative:congratulator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u043E\u043B\u0430\u0440\u041B\u0430\u0431\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.API\\Program.cs",
+              "RelativeDocumentMoniker": "Congratulator.API\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u043E\u043B\u0430\u0440\u041B\u0430\u0431\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.API\\Program.cs",
+              "RelativeToolTip": "Congratulator.API\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:18:17.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u043E\u043B\u0430\u0440\u041B\u0430\u0431\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Congratulator.API\\appsettings.json",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0421\u043E\u043B\u0430\u0440\u041B\u0430\u0431\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.API\\appsettings.json",
+              "RelativeToolTip": "Congratulator.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T19:14:16.943Z",
+              "EditorCaption": ""
             }
           ]
         }
