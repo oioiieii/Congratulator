@@ -24,8 +24,8 @@
 ### 🔹 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/your-username/congratulator.git
-cd congratulator
+git clone https://github.com/oioiieii/Congratulator.git
+cd Congratulator
 ```
 
 ---
@@ -62,10 +62,17 @@ cd congratulator
 ### 🔹 3. Запуск фронтенда
 
 ```bash
-cd frontend
+cd Frontend/Congratulator/
 npm install
 npm run dev
 ```
+
+---
+
+## Демонстрация работы 😊:
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2b1f2b45-77f0-4c31-b195-55625315ff8d" alt="Демонстрация работы" />
+</div>
 
 ---
 
@@ -81,4 +88,3 @@ npm run dev
 cd Backend/Congratulator
 dotnet ef database update
 ```
-
