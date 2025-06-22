@@ -11,10 +11,16 @@ const Settings = () => {
   useEffect(() => {
     SettingsService.getSettings()
       .then((data) => {
-        setTgNotificationsEnabled(data.tgNotifications);
-        setNotificationTime(data.notifyTime.slice(0, 5));
-        setDaysBefore(data.daysBeforeNotify);
-        setInitialState(JSON.stringify(data));
+        const formattedData = {
+          tgNotifications: data.tgNotifications,
+          notifyTime: data.notifyTime.slice(0, 5) + ":00",
+          daysBeforeNotify: data.daysBeforeNotify,
+        };
+
+        setTgNotificationsEnabled(formattedData.tgNotifications);
+        setNotificationTime(formattedData.notifyTime.slice(0, 5));
+        setDaysBefore(formattedData.daysBeforeNotify);
+        setInitialState(JSON.stringify(formattedData));
       })
       .catch(() => {
         alert("Ошибка при загрузке настроек");

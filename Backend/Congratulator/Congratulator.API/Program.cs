@@ -6,6 +6,7 @@ using Congratulator.Infrastructure.Database.Repositories;
 using Congratulator.Infrastructure.Storage;
 using Congratulator.Infrastructure.TelegramBot;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using System.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -32,7 +33,8 @@ builder.Services.AddScoped<IPersonsService, PersonsService>();
 builder.Services.AddHttpClient<IStorageService, SupabaseStorageService>(client =>
 {
     client.BaseAddress = new Uri(builder.Configuration["StorageStrings:Url"] ?? "");
-    new AuthenticationHeaderValue("Bearer", builder.Configuration["StorageStrings:API_Keys"] ?? "");
+    client.DefaultRequestHeaders.Authorization =
+        new AuthenticationHeaderValue("Bearer", builder.Configuration["StorageStrings:API_Keys"] ?? "");
 });
 
 builder.Services.AddSingleton<ISenderService, TelegramSenderService>();
