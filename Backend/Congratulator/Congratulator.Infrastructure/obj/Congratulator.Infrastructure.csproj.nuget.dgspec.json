@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj": {}
+    "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj": {
+    "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
         "projectName": "Congratulator.Domain",
-        "projectPath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
+        "projectPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj",
         "packagesPath": "C:\\Users\\oioii\\.nuget\\packages\\",
-        "outputPath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\obj\\",
+        "outputPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj": {
+    "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj",
         "projectName": "Congratulator.Infrastructure",
-        "projectPath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\Congratulator.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\oioii\\.nuget\\packages\\",
-        "outputPath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj": {
-                "projectPath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj"
+              "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj": {
+                "projectPath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.Domain\\Congratulator.Domain.csproj"
               }
             }
           }

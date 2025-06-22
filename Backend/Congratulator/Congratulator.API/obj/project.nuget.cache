@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqTtun0ZbW0=",
+  "dgSpecHash": "EYaTbg5DUQg=",
   "success": true,
-  "projectFilePath": "D:\\Учёба\\СоларЛаб\\CongratulatorProject\\Backend\\Congratulator\\Congratulator.API\\Congratulator.API.csproj",
+  "projectFilePath": "C:\\Users\\oioii\\source\\repos\\Congratulator\\Congratulator.API\\Congratulator.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oioii\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\oioii\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

@@ -14,32 +14,10 @@ namespace Congratulator.Infrastructure.TelegramBot
         public TelegramSenderService(IConfiguration configuration)
         {
             var botToken = configuration["TelegramBotStrings:BotToken"];
-            var userNickname = configuration["TelegramBotStrings:Nickname"];
+            var chatId = configuration["TelegramBotStrings:ChatId"];
 
             _bot = new TelegramBotClient(botToken!);
-
-            foreach (var update in _bot.GetUpdates().Result)
-            {
-                // Проверяем, что это обновление содержит нужного пользователя
-                if (FindChatIdByUsername(update, userNickname) is long chatId)
-                {
-                    this.chatId = Convert.ToString(chatId);
-                    return; // Выходим из метода, если нашли нужный чат
-                }
-            }
-            
-           Console.WriteLine($"Не удалось найти чат с ником @{userNickname}. Проверьте настройки бота и наличие пользователя в чате.");
-        }
-
-        private long? FindChatIdByUsername(Telegram.Bot.Types.Update update, string username)
-        {
-            // Проверяем есть ли сообщение и есть ли у него чат с нужным ником
-            if (update.Message?.Chat?.Username != null && update.Message.Chat.Username.Equals(username, StringComparison.OrdinalIgnoreCase))
-            {
-                return update.Message.Chat.Id;
-            }
-
-            return null; 
+            this.chatId = chatId!;
         }
 
         public async Task SendMessage(string message)
