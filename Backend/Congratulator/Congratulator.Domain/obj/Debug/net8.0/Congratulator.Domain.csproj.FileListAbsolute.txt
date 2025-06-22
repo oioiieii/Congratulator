@@ -10,3 +10,15 @@ C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\
 C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.pdb
 C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\ref\Congratulator.Domain.dll
 C:\Users\oioii\source\repos\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.sourcelink.json
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\bin\Debug\net8.0\Congratulator.Domain.deps.json
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\bin\Debug\net8.0\Congratulator.Domain.dll
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\bin\Debug\net8.0\Congratulator.Domain.pdb
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.AssemblyInfoInputs.cache
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.AssemblyInfo.cs
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.csproj.CoreCompileInputs.cache
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.sourcelink.json
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.dll
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\refint\Congratulator.Domain.dll
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\Congratulator.Domain.pdb
+D:\Учёба\СоларЛаб\CongratulatorProject\Backend\Congratulator\Congratulator.Domain\obj\Debug\net8.0\ref\Congratulator.Domain.dll
